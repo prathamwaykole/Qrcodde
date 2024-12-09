@@ -1,0 +1,6 @@
+*{font-size:2vw;font-family:Cambria;}
+body{background-image:url(./design.png);
+background-size:cover;
+}
+h1{background-color:black;color:white;width:40%;border-radius:3vw;}
+h2{border:solid;width:70%;border-radius:3vw;}
